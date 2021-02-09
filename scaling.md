@@ -42,7 +42,7 @@ Mainly there are two types of scaling one is ``horizontal scaling``(also known a
 
 In horizontal scaling, we add ``extra resources`` in a pool of resources or you can say adding resource parallelly. In vertical scaling adding more ``power(CPU, RAM)`` to an existing system.
 
-![Horizontal Scaling](https://www.section.io/assets/images/blog/featured-images/horizontal-vs-vertical-scaling-diagram.png )
+
 ![vertical Scaling](https://www.section.io/assets/images/blog/featured-images/horizontal-vs-vertical-scaling-diagram.png)
 
 ## Vertical Scaling
@@ -116,9 +116,9 @@ Mainly there are two types of loadbalancer hardware-based and software-based. Ha
 
 References | Links
 ------------ | -------------
-Reference 1 | [](https://fullscale.io/blog/what-is-software-scalability/)
-reference 2 | [](https://www.conceptatech.com/blog/importance-of-scalability-in-software-design)
-Reference 4 | [](http://www.idc-online.com/technical_references/pdfs/information_technology/Basics_of_Scaling_Load_Balancers.pdf)
-Reference 5 | [](https://medium.com/@tudip/basic-guide-load-balancing-and-auto-scaling-in-cloud-computing-219a5f0768a)
-Reference 6 | [](https://www.nginx.com/resources/glossary/load-balancing/)
-Reference 7 | [](https://medium.com/swlh/basics-of-system-design-horizontal-vs-vertical-scaling-7e92fd219909 )
+Reference 1 | https://fullscale.io/blog/what-is-software-scalability/
+reference 2 | https://www.conceptatech.com/blog/importance-of-scalability-in-software-design
+Reference 4 | http://www.idc-online.com/technical_references/pdfs/information_technology/Basics_of_Scaling_Load_Balancers.pdf
+Reference 5 | https://medium.com/@tudip/basic-guide-load-balancing-and-auto-scaling-in-cloud-computing-219a5f0768a
+Reference 6 | https://www.nginx.com/resources/glossary/load-balancing/
+Reference 7 | https://medium.com/swlh/basics-of-system-design-horizontal-vs-vertical-scaling-7e92fd219909 
