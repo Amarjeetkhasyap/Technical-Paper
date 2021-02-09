@@ -78,7 +78,7 @@ In horizontal scaling, we add ``extra resources`` in a pool of resources or you 
 
 If you have a large set of users/data then go for horizontal scaling. If your business manages only limited no. of user/data then go for vertical scaling.
 
->most of the organization uses the combination of both.
+>Most of the organization uses the combination of both.
 
 ## Loadbalancer
 
@@ -102,7 +102,7 @@ affecting the actual flow of your application.
 
 Mainly there are two types of loadbalancer hardware-based and software-based. Hardware-based are expensive and suggested for large infrastructure. Software-based is less expensive and flexible and runs on top of available hardware we just have to install into the system.
 
-> Loadbalancer now provides ``security``, ``acceleration``, ``authentication`` in the software load balancer.
+> Loadbalancer now provides ``Security``, ``Acceleration``, ``Authentication`` in the software load balancer.
 
 ## Load Balancing Algorithms
 
