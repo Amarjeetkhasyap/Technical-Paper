@@ -1,2 +1,2 @@
 # Technical-Paper
-Short paragraph on Technical paper
+Short paragraph on Scaling
